@@ -1,14 +1,13 @@
 import React, { FunctionComponent } from 'react';
-import logo from '../assets/logo.svg';
-import './App.css';
+import { AppWrapper, Header, Title } from './App.styles';
 
 const App: FunctionComponent = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-      </header>
-    </div>
+    <AppWrapper>
+      <Header>
+        <Title>Developer</Title>
+      </Header>
+    </AppWrapper>
   );
 };
 
