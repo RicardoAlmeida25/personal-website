@@ -20,3 +20,8 @@ export const Title = styled.p`
   color: palevioletred;
   font-family: 'Montserrat';
 `;
+
+export const IconsRow = styled.div`
+  display: flex;
+  flex-direction: row;
+`;
