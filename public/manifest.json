@@ -1,6 +1,6 @@
 {
   "short_name": "Ricardo Almeida",
-  "name": "Ricardo Almeida",
+  "name": "Ricardo Website",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +19,7 @@
     }
   ],
   "start_url": ".",
-  "display": "standalone",
+  "display": "browser",
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
