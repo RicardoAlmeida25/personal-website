@@ -1,4 +1,3 @@
-import 'typeface-montserrat';
 import styled from 'styled-components';
 
 export const AppWrapper = styled.div`
@@ -18,7 +17,6 @@ export const Header = styled.header`
 
 export const Title = styled.p`
   color: palevioletred;
-  font-family: 'Montserrat';
 `;
 
 export const IconsRow = styled.div`
